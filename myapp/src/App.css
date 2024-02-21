@@ -1,0 +1,11 @@
+
+.editor-container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.editor-wrapper {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
